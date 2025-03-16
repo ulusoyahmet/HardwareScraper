@@ -1,0 +1,12 @@
+C:\Users\bayul\Desktop\Hardware_Scrapper\HardwareScrapper.Core\bin\Debug\net8.0\HardwareScrapper.Domain.deps.json
+C:\Users\bayul\Desktop\Hardware_Scrapper\HardwareScrapper.Core\bin\Debug\net8.0\HardwareScrapper.Domain.dll
+C:\Users\bayul\Desktop\Hardware_Scrapper\HardwareScrapper.Core\bin\Debug\net8.0\HardwareScrapper.Domain.pdb
+C:\Users\bayul\Desktop\Hardware_Scrapper\HardwareScrapper.Core\obj\Debug\net8.0\HardwareScrapper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayul\Desktop\Hardware_Scrapper\HardwareScrapper.Core\obj\Debug\net8.0\HardwareScrapper.Domain.AssemblyInfoInputs.cache
+C:\Users\bayul\Desktop\Hardware_Scrapper\HardwareScrapper.Core\obj\Debug\net8.0\HardwareScrapper.Domain.AssemblyInfo.cs
+C:\Users\bayul\Desktop\Hardware_Scrapper\HardwareScrapper.Core\obj\Debug\net8.0\HardwareScrapper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bayul\Desktop\Hardware_Scrapper\HardwareScrapper.Core\obj\Debug\net8.0\HardwareScrapper.Domain.sourcelink.json
+C:\Users\bayul\Desktop\Hardware_Scrapper\HardwareScrapper.Core\obj\Debug\net8.0\HardwareScrapper.Domain.dll
+C:\Users\bayul\Desktop\Hardware_Scrapper\HardwareScrapper.Core\obj\Debug\net8.0\refint\HardwareScrapper.Domain.dll
+C:\Users\bayul\Desktop\Hardware_Scrapper\HardwareScrapper.Core\obj\Debug\net8.0\HardwareScrapper.Domain.pdb
+C:\Users\bayul\Desktop\Hardware_Scrapper\HardwareScrapper.Core\obj\Debug\net8.0\ref\HardwareScrapper.Domain.dll

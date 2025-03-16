@@ -1,0 +1,12 @@
+C:\Users\bayul\Desktop\c#_learning\SimpleWebScraper\HardwareScrapper.Core\bin\Debug\net8.0\HardwareScrapper.Core.deps.json
+C:\Users\bayul\Desktop\c#_learning\SimpleWebScraper\HardwareScrapper.Core\bin\Debug\net8.0\HardwareScrapper.Core.dll
+C:\Users\bayul\Desktop\c#_learning\SimpleWebScraper\HardwareScrapper.Core\bin\Debug\net8.0\HardwareScrapper.Core.pdb
+C:\Users\bayul\Desktop\c#_learning\SimpleWebScraper\HardwareScrapper.Core\obj\Debug\net8.0\HardwareScrapper.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayul\Desktop\c#_learning\SimpleWebScraper\HardwareScrapper.Core\obj\Debug\net8.0\HardwareScrapper.Core.AssemblyInfoInputs.cache
+C:\Users\bayul\Desktop\c#_learning\SimpleWebScraper\HardwareScrapper.Core\obj\Debug\net8.0\HardwareScrapper.Core.AssemblyInfo.cs
+C:\Users\bayul\Desktop\c#_learning\SimpleWebScraper\HardwareScrapper.Core\obj\Debug\net8.0\HardwareScrapper.Core.csproj.CoreCompileInputs.cache
+C:\Users\bayul\Desktop\c#_learning\SimpleWebScraper\HardwareScrapper.Core\obj\Debug\net8.0\HardwareScrapper.Core.sourcelink.json
+C:\Users\bayul\Desktop\c#_learning\SimpleWebScraper\HardwareScrapper.Core\obj\Debug\net8.0\HardwareScrapper.Core.dll
+C:\Users\bayul\Desktop\c#_learning\SimpleWebScraper\HardwareScrapper.Core\obj\Debug\net8.0\refint\HardwareScrapper.Core.dll
+C:\Users\bayul\Desktop\c#_learning\SimpleWebScraper\HardwareScrapper.Core\obj\Debug\net8.0\HardwareScrapper.Core.pdb
+C:\Users\bayul\Desktop\c#_learning\SimpleWebScraper\HardwareScrapper.Core\obj\Debug\net8.0\ref\HardwareScrapper.Core.dll
