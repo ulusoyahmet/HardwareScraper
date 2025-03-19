@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HardwareScrapper.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8506427d40f1702cb3af83df5f5b3f81efb97a6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b84c3a7dcbcd954ed9811f1cb5d3d9643c29a44f")]
 [assembly: System.Reflection.AssemblyProductAttribute("HardwareScrapper.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HardwareScrapper.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
